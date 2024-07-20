@@ -23,7 +23,7 @@ namespace API_AZ_AUTH.Controllers
         }
 
 
-        [RequiredScope("Reader")]
+        [RequiredScope("Read")]
         [HttpGet(Name = "GetWeatherForecast")]
         public IEnumerable<WeatherForecast> Get()
         {
