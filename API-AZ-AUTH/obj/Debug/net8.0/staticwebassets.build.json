@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KpD8XQ1eqDrKY8Dur9C8PnnXfmw3SCHO2Qdh2fltAq0=",
+  "Source": "API-AZ-AUTH",
+  "BasePath": "_content/API-AZ-AUTH",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
