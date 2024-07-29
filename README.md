@@ -20,5 +20,5 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/MyProductApp.git
-   cd MyProductApp
+   git clone https://github.com/markintela/API-AZ-AUTH.git
+   cd API-AZ-AUTH
