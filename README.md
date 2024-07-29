@@ -14,7 +14,7 @@
 
 ## Features
 
-- Server-sideauthentication
+- Server-side authentication
 
 ## Project Setup
 
